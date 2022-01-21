@@ -1,3 +1,1 @@
-# My-Blogs
-
-New repository created for blogs. 
+# This is the repo for my blog site.
